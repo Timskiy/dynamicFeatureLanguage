@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LangNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_languages">Languages</string>
+    <string name="language">en</string>
+    <string name="load_english">Load English</string>
+    <string name="load_russian">Load Russian</string>
+    <string name="load_spanish">Load Spanish</string>
+    <string name="load_italian">Load Italian</string>
+
+    <string name="lang_english" translatable="false">English</string>
+    <string name="lang_italian" translatable="false">Italiano</string>
+    <string name="lang_russian" translatable="false">Русский</string>
+    <string name="lang_spanish" translatable="false">Español</string>
+
+    <string name="btn_check">Check</string>
+</resources>

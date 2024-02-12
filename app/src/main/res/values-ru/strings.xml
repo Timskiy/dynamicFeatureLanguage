@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LangNavigation</string>
+    <string name="title_home">Домашний</string>
+    <string name="title_dashboard">Панель приборов</string>
+    <string name="title_languages">Языки</string>
+    <string name="language">ru</string>
+    <string name="load_english">Загрузить английский</string>
+    <string name="load_russian">Загрузить русский</string>
+    <string name="load_spanish">Загрузить испанский</string>
+    <string name="load_italian">Загрузить итальянский</string>
+
+    <string name="btn_check">Проверить</string>
+</resources>

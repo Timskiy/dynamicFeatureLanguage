@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LangNavigation</string>
+    <string name="title_home">Hogar</string>
+    <string name="title_dashboard">Panel</string>
+    <string name="title_languages">Idiomas</string>
+
+    <string name="language">es</string>
+    <string name="load_english">Cargar inglés</string>
+    <string name="load_russian">Cargar ruso</string>
+    <string name="load_spanish">Cargar español</string>
+    <string name="load_italian">Cargar italiano</string>
+
+    <string name="btn_check">Cheque</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages_units_titles">
+        <item>@string/lang_english</item>
+        <item>@string/lang_italian</item>
+        <item>@string/lang_russian</item>
+        <item>@string/lang_spanish</item>
+    </string-array>
+    <string-array name="languages_codes">
+        <item>en</item>
+        <item>it</item>
+        <item>ru</item>
+        <item>es</item>
+    </string-array>
+</resources>
