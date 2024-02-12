@@ -14,5 +14,13 @@ public class MyApplication extends Application {
         super.attachBaseContext(context);
         SplitCompat.install(this);
     }
+
+//    @Override
+//    public void onCreate() {
+//        super.onCreate();
+//        MobileAds.initialize(this, initializationStatus -> {
+//            Log.d("LANG_TEST", "MobileAds SDK Initialized");
+//        });
+//    }
 }
 
